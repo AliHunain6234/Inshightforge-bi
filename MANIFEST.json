@@ -1,0 +1,11 @@
+{
+  "project": "InsightForge BI",
+  "version": "1.0.0",
+  "customers": 720,
+  "sales_records": 8640,
+  "automated_tests": 7,
+  "test_status": "PASS",
+  "screenshots": 3,
+  "diagrams": 3,
+  "report": "InsightForge-BI-Capstone-Report.pdf"
+}
