@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+.env
+.venv/
+artifacts/
+
+# kept local: the old repo history bundle, and screenshots / report whose pictures show the demo login e-mail
+insightforge-history.bundle
+screenshots/
+report/

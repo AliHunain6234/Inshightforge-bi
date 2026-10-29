@@ -1,0 +1,8 @@
+[project]
+name = "insightforge-bi"
+version = "1.0.0"
+description = "Enterprise-style business intelligence and predictive analytics capstone"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

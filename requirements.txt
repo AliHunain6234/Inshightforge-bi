@@ -1,0 +1,2 @@
+# Runtime uses only the Python 3.11+ standard library.
+# Optional production adapter: PostgreSQL driver, Redis client and WSGI/ASGI gateway.
